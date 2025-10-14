@@ -19,7 +19,7 @@ I enjoy learning new technologies, contributing to open source, and improving my
 Here are some of my projects:  
 - **To-Do App** – Task management web application
 - 🌐 **Live Demo:** [Click here to view the website](https://pramod-munnoli.github.io/Weather-App/)
-- 
+
 - **Weather App** – Weather forecast application *(hosted link coming soon)*  
 - **Personal Portfolio** – Showcase of my skills and projects *(hosted link coming soon)*
  - [More projects coming soon…](#)
