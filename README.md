@@ -18,10 +18,10 @@ I enjoy learning new technologies, contributing to open source, and improving my
 ## 🛠 Projects
 Here are some of my projects:  
 - **To-Do App** – Task management web application
-- 🌐 **Live Demo:** [Click here to view the website](https://pramod-munnoli.github.io/Weather-App/)
+- 🌐 **Live Demo:** [Click here to view the website](https://pramod-munnoli.github.io/Todo-tracker/)
 
 - **Weather App** – Weather forecast application
--  🌐 **Live Demo:** [Click here to view the website](https://pramod-munnoli.github.io/Todo-tracker/)
+-  🌐 **Live Demo:** [Click here to view the website](https://pramod-munnoli.github.io/Weather-App/)
  
 - **Personal Portfolio** – Showcase of my skills and projects
 - 🌐 **Live Demo:** [Click here to view the website](https://pramod-munnoli.github.io/Pramod-Portfolio/)
