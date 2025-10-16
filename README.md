@@ -1,16 +1,16 @@
 # Hi, I'm Pramod Munnoli 👋
 
 ## 🌱 About Me
-Aspiring Web Developer | BCA Student | Passionate about Frontend Development, React.js, and building projects that solve real-world problems.  
+Aspiring Software Engineer | BCA Student | Passionate about Frontend Development, React.js, and building projects that solve real-world problems.  
 I enjoy learning new technologies, contributing to open source, and improving my coding skills every day.
 
 ---
 
 ## 💻 Skills
-- **Frontend:** HTML, CSS, JavaScript, React.js (Learning) 
-- **Backend:** Node.js (Learning)  
-- **Databases:** MySQL, Firebase  
-- **Tools & Platforms:** Git, GitHub, VS Code, Chrome DevTools  
+- **Frontend:** HTML, CSS, JavaScript, React.js (Learning)   
+- **Databases:** MySQL
+- **Programming languages:** Java, Python, C
+- **Tools & Platforms:** Git, GitHub, VS Code 
 - **Problem Solving:** HackerRank practice, algorithmic challenges
 
 ---
