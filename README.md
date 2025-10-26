@@ -1,3 +1,7 @@
+## My Hacktoberfest & Holopin Badges 🎖️
+
+[![An image of @pramodmunnoli's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pramodmunnoli)](https://holopin.io/@pramodmunnoli)
+
 # Hi, I'm Pramod Munnoli 👋
 
 ## 🌱 About Me
