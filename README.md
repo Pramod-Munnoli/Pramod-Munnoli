@@ -14,11 +14,22 @@
 
 <p align="center">
   <a href="https://holopin.io/@pramodmunnoli">
-    <img src="https://holopin.me/pramodmunnoli" alt="Holopin Badges" width="80%">
+    <img src="https://holopin.me/pramodmunnoli" alt="Holopin Badges" width="100%">
   </a>
 </p>
 
 ---
+
+<h2 align="">🌳 Hacktoberfest 2025 Tree 🌍</h2>
+<p align="">
+  <i>Calocedrus decurrens</i> 🌲 — California, USA 🇺🇸<br>
+  CO₂ Offset: <b>50 kg</b> 💨 • Gifted by <b>Hacktoberfest / DigitalOcean</b><br>
+  <a href="https://tree-nation.com/trees/8350684/view" target="_blank">💚 View My Tree on Tree-Nation</a>
+</p>
+
+---
+
+
 
 ## 🌱 About Me
 
