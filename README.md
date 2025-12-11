@@ -52,6 +52,12 @@ I love exploring new technologies, solving problems, and continuously improving 
 🌐 **Personal Portfolio** – My portfolio showcasing projects & skills  
 🔗 [Live Demo](https://pramod-munnoli.github.io/Pramod-Portfolio/)
 
+🌐 **Simon-Game** –  Play the Game 
+🔗 [Live Demo](https://pramod-munnoli.github.io/simon-game/)
+
+🌐 **Quick-Signature** – Make Signature here to download image
+🔗 [Live Demo](https://pramod-munnoli.github.io/quick-signature/)
+
 🧠 *More projects coming soon…*
 
 ---
