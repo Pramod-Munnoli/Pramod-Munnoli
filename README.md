@@ -53,7 +53,7 @@ I love exploring new technologies, solving problems, and continuously improving 
 🌐 **Simon-Game** –  Play the classic memory game 
 🔗 [Live Demo](https://pramod-munnoli.github.io/simon-game/)
 
-🌐 **Quick-Signature** – Make Signature here to download image
+🌐 **Quick-Signature** –Create and save your digital signature online
 🔗 [Live Demo](https://pramod-munnoli.github.io/quick-signature/)
 
 🌐 **Typing Master** – A typing speed test app to improve speed & accuracy
