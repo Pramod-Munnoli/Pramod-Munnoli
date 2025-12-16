@@ -50,11 +50,14 @@ I love exploring new technologies, solving problems, and continuously improving 
 🌐 **Personal Portfolio** – My portfolio showcasing projects & skills  
 🔗 [Live Demo](https://pramod-munnoli.github.io/Pramod-Portfolio/)
 
-🌐 **Simon-Game** –  Play the Game 
+🌐 **Simon-Game** –  Play the classic memory game 
 🔗 [Live Demo](https://pramod-munnoli.github.io/simon-game/)
 
 🌐 **Quick-Signature** – Make Signature here to download image
 🔗 [Live Demo](https://pramod-munnoli.github.io/quick-signature/)
+
+🌐 **Typing Master** – A typing speed test app to improve speed & accuracy
+🔗 [Live Demo](https://pramod-munnoli.github.io/Typing-Master/)
 
 🧠 **More projects coming soon…**
 
