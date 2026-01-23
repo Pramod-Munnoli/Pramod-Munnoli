@@ -39,30 +39,6 @@ I love exploring new technologies, solving problems, and continuously improving 
 
 ---
 
-## 🚀 Featured Projects
-
-📝 **To-Do App** – Task management web app  
-🔗 [Live Demo](https://pramod-munnoli.github.io/Todo-tracker/)
-
-🌦️ **Weather App** – Real-time weather forecast app  
-🔗 [Live Demo](https://pramod-munnoli.github.io/Weather-App/)
-
-🌐 **Personal Portfolio** – My portfolio showcasing projects & skills  
-🔗 [Live Demo](https://pramod-munnoli.github.io/Pramod-Portfolio/)
-
-🌐 **Simon-Game** –  Play the classic memory game 
-🔗 [Live Demo](https://pramod-munnoli.github.io/simon-game/)
-
-🌐 **Quick-Signature** –Create and save your digital signature online
-🔗 [Live Demo](https://pramod-munnoli.github.io/quick-signature/)
-
-🌐 **Typing Master** – A typing speed test app to improve speed & accuracy
-🔗 [Live Demo](https://pramod-munnoli.github.io/Typing-Master/)
-
-🧠 **More projects coming soon…**
-
----
-
 ## 🌐 Lets Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/pramod-munnoli)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pramodmunnoli99@gmail.com)
