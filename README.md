@@ -20,15 +20,6 @@
 
 ---
 
-<h2 align="">🌳 Hacktoberfest 2025 Tree 🌍</h2>
-<p align="">
-  <i>Calocedrus decurrens</i> 🌲 — California, USA 🇺🇸<br>
-  CO₂ Offset: <b>50 kg</b> 💨 • Gifted by <b>Hacktoberfest / DigitalOcean</b><br>
-  <a href="https://tree-nation.com/trees/8350684/view" target="_blank">💚 View My Tree on Tree-Nation</a>
-</p>
-
----
-
 ## 🌱 About Me
 
 🎯 **Aspiring Software Engineer | BCA Student | Frontend Enthusiast**  
@@ -76,6 +67,15 @@ I love exploring new technologies, solving problems, and continuously improving 
 ## 🔝 Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Pramod-Munnoli&limit=5&theme=blue_navy&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+<h2 align="">🌳 Hacktoberfest 2025 Tree 🌍</h2>
+<p align="">
+  <i>Calocedrus decurrens</i> 🌲 — California, USA 🇺🇸<br>
+  CO₂ Offset: <b>50 kg</b> 💨 • Gifted by <b>Hacktoberfest / DigitalOcean</b><br>
+  <a href="https://tree-nation.com/trees/8350684/view" target="_blank">💚 View My Tree on Tree-Nation</a>
 </p>
 
 ---
