@@ -52,13 +52,13 @@ I love exploring new technologies, solving problems, and continuously improving 
 
 <h2 align="">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pramod-Munnoli&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false"
+  <img src="https://github-readme-stats-alpha.vercel.app/api?username=Pramod-Munnoli&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false"
        height="160" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Pramod-Munnoli&theme=blue-green&hide_border=false"
        height="160" />
 </p> 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramod-Munnoli&theme=blue-green&hide_border=false&layout=compact"
+  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Pramod-Munnoli&theme=blue-green&hide_border=false&layout=compact"
        height="160" />
 </p>
 
