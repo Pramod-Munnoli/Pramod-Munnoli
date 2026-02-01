@@ -26,9 +26,11 @@
 ## 🚀 About Me
 <div align="center">
   <p>
-    🎯 <b>Aspiring Software Engineer | BCA Student | Frontend Enthusiast</b><br>
-    I’m passionate about <b>React.js</b>, building real-world projects, and contributing to open-source.<br>
-    I love exploring new technologies, solving problems, and continuously improving my coding skills.
+    � <b>BCA Student</b> | 💻 <b>Frontend Enthusiast</b> | 🌍 <b>Open Source Contributor</b>
+  </p>
+  <p>
+    I’m passionate about building robust web applications with <b>React.js</b> and <b>Modern Backend</b> tech.<br />
+    Strong focus on <b>clean code</b>, <b>AI integration</b>, and <b>responsive design</b>.
   </p>
   <p><i>“Code. Learn. Build. Repeat.”</i></p>
 </div>
@@ -55,16 +57,22 @@
 ## 🔥 Featured Project
 
 <div align="center">
+  <br />
   <a href="https://github.com/Pramod-Munnoli/AI_Latex_Resume_Builder">
-    <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Pramod-Munnoli&repo=AI_Latex_Resume_Builder&theme=blue-green" width="400" />
+    <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Pramod-Munnoli&repo=AI_Latex_Resume_Builder&theme=blue-green&border_radius=10" width="450" />
   </a>
-  <p>
-    🚀 <b>AI-Powered LaTeX Resume Builder</b><br>
-    <i>A robust platform to generate professional resumes using AI logic and LaTeX precision.</i><br>
-    Built with: <b>React, Node.js, Supabase, Docker</b>
+  <br /> <br />
+  
+  <h3>🚀 <b>AI-Powered LaTeX Resume Builder</b></h3>
+  <p><i>The ultimate platform for crafting precision LaTeX resumes using advanced AI logic.</i></p>
+  
+  <p align="center">
+    <b>Technologies used:</b><br />
+    <code>React.js</code> • <code>Node.js</code> • <code>Supabase</code> • <code>Docker</code> • <code>Express</code> • <code>Render</code>
   </p>
-  <p>
-    ✨ Smart Template Generation • 🛠️ Real-time LaTeX Preview • ☁️ Cloud Storage Integration
+  
+  <p align="center">
+    ✨ <b>Smart Template Engine</b> • 🛠️ <b>Real-time Preview</b> • ☁️ <b>Cloud Native</b>
   </p>
 </div>
 
@@ -73,17 +81,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-alpha.vercel.app/api?username=Pramod-Munnoli&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" height="165" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Pramod-Munnoli&theme=default&hide_border=false" height="165" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api?username=Pramod-Munnoli&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="165" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Pramod-Munnoli&theme=tokyonight&hide_border=false" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Pramod-Munnoli&theme=blue-green&hide_border=false&layout=compact" height="165" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Pramod-Munnoli&theme=tokyonight&hide_border=false&layout=compact" height="165" />
 </p>
 
 <h3 align="center">🔝 Top Contributed Repositories</h3>
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Pramod-Munnoli&limit=5&theme=blue-green&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Pramod-Munnoli&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
 ---
