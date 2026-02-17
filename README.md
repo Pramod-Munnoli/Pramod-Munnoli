@@ -116,15 +116,15 @@
   <a href="mailto:pramodmunnoli99@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.geeksforgeeks.org/profile/pramodmunnoli" target="_blank">
+  <!-- <a href="https://www.geeksforgeeks.org/profile/pramodmunnoli" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-  <a href="https://hackerrank.com/profile/pramodmunnoli981" target="_blank">
+  </a> -->
+  <!-- <a href="https://hackerrank.com/profile/pramodmunnoli981" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://leetcode.com/u/Pramod_Munnoli/" target="_blank">
+  </a> -->
+  <!-- <a href="https://leetcode.com/u/Pramod_Munnoli/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
+  </a> -->
   <a href="https://x.com/@Munnolipra85078" target="_blank">
     <img src="https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white" alt="X" />
   </a>
