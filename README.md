@@ -59,7 +59,7 @@
 <div align="center">
   <br />
   <a href="https://github.com/Pramod-Munnoli/AI_Latex_Resume_Builder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pramod-Munnoli&repo=AI_Latex_Resume_Builder&theme=tokyonight&border_radius=10&cache_seconds=1800" width="450" />
+    <img src="https://opengraph.githubassets.com/1/Pramod-Munnoli/AI_Latex_Resume_Builder" width="500" />
   </a>
   <br /> <br />
   
