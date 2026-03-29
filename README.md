@@ -59,7 +59,7 @@
 <div align="center">
   <br />
   <a href="https://github.com/Pramod-Munnoli/AI_Latex_Resume_Builder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pramod-Munnoli&repo=AI_Latex_Resume_Builder&theme=tokyonight&border_radius=10" width="450" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pramod-Munnoli&repo=AI_Latex_Resume_Builder&theme=tokyonight&border_radius=10&cache_seconds=1800" width="450" />
   </a>
   <br /> <br />
   
@@ -81,12 +81,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pramod-Munnoli&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="165" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Pramod-Munnoli&theme=tokyonight&hide_border=false" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pramod-Munnoli&theme=tokyonight" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Pramod-Munnoli&theme=tokyonight&hide_border=false" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramod-Munnoli&theme=tokyonight&hide_border=false&layout=compact" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pramod-Munnoli&theme=tokyonight" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pramod-Munnoli&theme=tokyonight" height="165" />
 </p>
 
 <h3 align="center">🔝 Contribution Activity</h3>
