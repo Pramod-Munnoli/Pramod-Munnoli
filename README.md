@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/Pramod-Munnoli">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&center=true&vCenter=true&width=750&height=60&lines=🚀+Full+Stack+MERN+Developer;⚛️+React+%7C+Node.js+%7C+MongoDB+%7C+Express;🎃+Hacktoberfest+2025+Super+Contributor;🏆+Hackathon+Enthusiast+%26+Builder;🌱+BCA+Final+Year+%7C+Open+to+Opportunities&color=6366F1&background=00000000" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&center=true&vCenter=true&width=750&height=60&lines=🚀+Full+Stack+MERN+Developer;⚛️+React+%7C+Node.js+%7C+MongoDB+%7C+Express;🎃+Hacktoberfest+2025+Super+Contributor;🏆+Hackathon+Enthusiast+%26+Builder;🌱+BCA+Graduate+%7C+Open+to+Opportunities&color=6366F1&background=00000000" alt="Typing Animation" />
   </a>
 </p>
 
@@ -39,7 +39,7 @@
 const pramod = {
   name        : "Pramod Munnoli",
   role        : "Full Stack Developer (MERN)",
-  education   : "BCA Final Year → Expected 2026",
+  education   : "BCA Graduate 2023 - 2026",
   location    : "Bengaluru, Karnataka 🇮🇳",
 
   stack: {
@@ -74,8 +74,8 @@ const pramod = {
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Passport.js](https://img.shields.io/badge/passport.js-34E27A?style=flat&logo=passport&logoColor=white) ![Socket.io](https://img.shields.io/badge/socket.io-black?style=flat&logo=socket.io) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Passport.js](https://img.shields.io/badge/passport.js-34E27A?style=flat&logo=passport&logoColor=white)  |
 | **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
 | **Database** | ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) |
 | **Cloud/Infra** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat&logo=render&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) |
